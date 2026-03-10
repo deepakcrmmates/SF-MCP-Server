@@ -384,4 +384,4 @@ salesforce-dev-mcp/
 
 ---
 
-Built by **CRM Mates** | deepak@crmmates.com
+Built by **Deepak K Rana** | deepak@crmmates.com
