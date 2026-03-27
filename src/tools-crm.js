@@ -5,7 +5,7 @@
  * real record-level read/write against live org data.
  */
 
-const CRM_TOOLS = [
+export const CRM_TOOLS = [
   // ─────────────────────────────────────────
   // QUERY & SEARCH
   // ─────────────────────────────────────────
@@ -586,4 +586,4 @@ const CRM_TOOLS = [
   },
 ];
 
-module.exports = { CRM_TOOLS };
+
